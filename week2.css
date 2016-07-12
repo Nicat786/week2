@@ -1,0 +1,104 @@
+html, body {
+	margin: 0;
+	padding: 0;
+
+}
+
+.pageUp{
+	width: 1600px;
+	height: 800px;
+	position: relative;
+
+	
+}
+.pageUp1{
+	position: absolute;
+	left: 600px;
+	bottom: 500px;
+	display: inline-block;
+	text-align: center;
+	float: left;
+}
+.days{
+	color: #a1a9b0;
+}
+.pageUp2{
+	background: #3dc9b3;
+	position: absolute;
+	left: 670px;
+	bottom: 300px;
+	float: left;
+	padding: 0px 30px ;
+}
+.pageUpt2{
+	color: white;
+}
+
+.page2{
+	margin: -20px 0px;
+	width: 1600px;
+	height: 500px;
+	background-color: #f3f5f8;
+	position: relative;
+}
+.page2text{
+	padding-top: 100px
+}
+.page2toolbar{
+	position: absolute;
+	float: left;
+	left:685px;
+
+}
+.page2intext{
+	padding: 50px 0px;
+	text-align: center;
+}
+.page3{
+	margin: -20px 0px;
+	width: 1600px;
+	height: 700px;
+	
+}
+.ikon{
+	padding: 0;
+	margin-left:160px;
+	margin-top: 50px;
+	float: left;
+	text-align: center;
+}
+
+a{
+	size:5;
+	color: #a1a9b0;
+	text-align: center;	
+}
+.page4{
+	margin: -20px;
+	width:800px;
+	height: 700px;
+	float: left;
+	display: block;
+
+}
+.page41{
+	width: 800px;
+	height: 700px;
+	text-align: center;
+	float: left;
+	display: block;
+}
+.page5{
+	width: 1600px;
+	height: 500px;
+	margin:-50px 0px;
+	padding: 0px;
+	z-index: 5;
+	position: relative;
+}
+.page5{
+	width: 1600px;
+	height: 600px;
+	background: url(imgg/plants-bg.jpg);
+	background-size: contain;
+	margin:680px 0px 0px 0px;
